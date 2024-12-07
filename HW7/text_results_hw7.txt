@@ -1,0 +1,288 @@
+GPT2_Once upon _greedy:
+Once upon a time, there lived a King named Julius Caesar, who was a man of great wealth and power. He was a man of great wealth and power, and he was a man of great wealth and power. He was a man of great
+
+Meta-Llama_Once upon _greedy:
+Once upon a time, there lived a King named Julius Caesar. He was a great and powerful leader, but he had one problem. He was a man of many wives. He had many children, and he had many lovers. He was a
+
+SMOL_Once upon _greedy:
+Once upon a time, there lived a King named Julius Caesar. He was a great leader, loved by his people, and respected by his enemies. He was known for his bravery, his wisdom, and his unwavering commitment to justice.
+
+One
+
+Google-Gemma_Once upon _greedy:
+Once upon a time, there lived a King named Julius Caesar. He was a very powerful and wealthy king, but he was also very lonely. He had many wives and children, but none of them could ever truly understand him.
+
+One day
+
+GPT2_Once upon _random:
+Once upon a time, there lived a King named Julius Caesar. And who was the greatest dictator in modern times? A man to whom he is thought to have been very smart and very powerful. And how powerful were the two and the ways he could
+
+Meta-Llama_Once upon _random:
+Once upon a time, there lived a King named Julius Caesar. He was a great man who ruled a huge empire. He was a very strong man who was loved by many people. One day, a young man named Julius Caesar was born to
+
+SMOL_Once upon _random:
+Once upon a time, there lived a King named Julius Caesar who was struggling to understand a difficult concept in math. His best mathematician, a wise old sage named Marcus, could not help him solve it. One day, a clever little boy named Timmy
+
+Google-Gemma_Once upon _random:
+Once upon a time, there lived a King named Julius Caesar. He was a powerful and wealthy king, and he ruled his land with an iron fist. However, behind his regal facade, Julius Caesar bore a secret – he was cursed with a
+
+GPT2_Once upon _beam:
+Once upon a time, there lived a King named Julius Caesar. He was the son of a nobleman, and he was the son of a nobleman, and he was the son of a nobleman, and he was the son of a noble
+
+Meta-Llama_Once upon _beam:
+Once upon a time, there lived a King named Julius Caesar. He was a very powerful man, and he had a lot of friends. One of his friends was a man named Mark Antony. Mark Antony was a very smart man, and he
+
+SMOL_Once upon _beam:
+Once upon a time, there lived a King named Julius Caesar. He was a wise and just ruler who loved his people dearly. One day, he decided to build a grand palace for his people to live in. He wanted it to be the
+
+Google-Gemma_Once upon _beam:
+Once upon a time, there lived a King named Julius Caesar. He was known for his wisdom, his bravery, and his love for his people. 
+
+One day, a terrible storm raged across the land. The wind howled, the
+
+GPT2_Once upon _beam_random:
+Once upon a time, there lived a King named Julius Caesar, a man who had been born a Roman citizen. Julius Caesar was the son of a great nobleman, and his father was a man of great wealth. His father was the son of
+
+Meta-Llama_Once upon _beam_random:
+Once upon a time, there lived a King named Julius Caesar. He was a very powerful man, and he had a lot of friends. One of his friends was a man named Brutus. Brutus was a very brave man, and he
+
+SMOL_Once upon _beam_random:
+Once upon a time, there lived a King named Julius Caesar who ruled over a vast empire. He was a just and fair ruler, loved by his people, and respected by his enemies.
+
+One day, a messenger arrived from Rome, bearing
+
+Google-Gemma_Once upon _beam_random:
+Once upon a time, there lived a King named Julius Caesar. He was known for his wisdom, his bravery, and his love for his people. 
+
+One day, a terrible storm raged across the kingdom. The wind howled like a
+
+GPT2_This movie_greedy:
+This movie was a good example of how to make a movie that is not just a movie, but a movie that is a movie. It's a movie about a man who is a man who is a man who is a man who is a man
+
+Meta-Llama_This movie_greedy:
+This movie was a good example of how to make a movie. It was a good example of how to make a movie. It was a good example of how to make a movie. It was a good example of how to make a movie.
+
+SMOL_This movie_greedy:
+This movie was a good example of how a movie can be a great example of a movie. It was a great example of a movie because it was a great example of a movie. It was a great example of a movie because it was a great
+
+Google-Gemma_This movie_greedy:
+This movie was a good example of how to make a movie about a superhero. 
+
+**Strengths:**
+
+* **Strong Character Development:** The movie did a great job of developing the main character, giving him a compelling backstory and motivations. 
+
+GPT2_This movie_random:
+This movie was a good example of how the idea of this kind of movie can take off in film and in pop culture – but if it wasn't for David Lynch's genius, it wouldn't work out so well. I'm definitely the first to
+
+Meta-Llama_This movie_random:
+This movie was a good example of the genre, but it is not the best example of the genre. It is not the best example of the genre because it is not as good as the other movies in the genre. It is not the best
+
+SMOL_This movie_random:
+This movie was a good example of how the media makes characters into superheros and makes them more interesting because they do all these heroic things but, in reality we just saw the exact same things that they were doing in the movie. In the movie
+
+Google-Gemma_This movie_random:
+This movie was a good example of how a lot of money did not necessarily mean that a good movie was made.
+
+**"Battlefield Earth" (2000)**
+
+This isn't just a bad movie; it's a
+
+GPT2_This movie_beam:
+This movie was a good example of how to make a good movie. It was a good movie, but it wasn't a good movie. It was a bad movie. It was a bad movie. It was a bad movie. It was a bad
+
+Meta-Llama_This movie_beam:
+This movie was a good example of how to make a movie. The story was good, the acting was good, and the special effects were good. The only thing I didn't like was the ending. I thought it was a little bit too
+
+SMOL_This movie_beam:
+This movie was a good example of how a movie can be both entertaining and thought-provoking at the same time. The characters were well-developed and relatable, and the plot was engaging and unpredictable. I would definitely recommend this movie to anyone looking for
+
+Google-Gemma_This movie_beam:
+This movie was a good example of how to make a movie that is both entertaining and thought-provoking. 
+
+**Here's why:**
+
+* **Engaging Story:** The plot was captivating and kept me on the edge of my seat
+
+GPT2_This movie_beam_random:
+This movie was a good example of what I like to do. I think it's a great example of what I consider to be a great story. I think it's a good example of what I consider to be a great movie. I think it
+
+Meta-Llama_This movie_beam_random:
+This movie was a good example of how to make a good movie. It was a good example of how to make a good movie. It was a good example of how to make a good movie. It was a good example of how to make
+
+SMOL_This movie_beam_random:
+This movie was a good example of how a good movie can be made with a small budget. It has a good story, good acting, and good special effects. It also has a good soundtrack that fits the mood of the movie.
+
+
+
+Google-Gemma_This movie_beam_random:
+This movie was a good example of how to make a movie about a topic that's already been done before. 
+
+Here's why:
+
+* **It didn't try to reinvent the wheel.** The movie stayed true to the
+
+GPT2_A farmer h_greedy:
+A farmer has 17 sheep, and all but 9 run away. How many are left?
+
+The answer is that the number of sheep is increasing. The number of sheep is increasing because of the demand for sheep. The number of sheep is increasing
+
+Meta-Llama_A farmer h_greedy:
+A farmer has 17 sheep, and all but 9 run away. How many are left? A farmer has 17 sheep, and all but 9 run away. How many are left?
+A farmer has 17 sheep, and all
+
+SMOL_A farmer h_greedy:
+A farmer has 17 sheep, and all but 9 run away. How many are left?
+
+Google-Gemma_A farmer h_greedy:
+A farmer has 17 sheep, and all but 9 run away. How many are left?
+
+This is a classic word problem! 
+
+The answer is **9**. The problem states "all but 9" meaning 9
+
+GPT2_A farmer h_random:
+A farmer has 17 sheep, and all but 9 run away. How many are left?
+
+"Why, I'm not sure, it gets into our heads, 'Is there no money? How many are there?'" he said. "And
+
+Meta-Llama_A farmer h_random:
+A farmer has 17 sheep, and all but 9 run away. How many are left? A farmer has 17 sheep, and all but 9 run away. How many are left? A farmer has 17 sheep, and all
+
+SMOL_A farmer h_random:
+A farmer has 17 sheep, and all but 9 run away. How many are left?
+
+This is a classic lateral thinking puzzle. Think hard, and see if you can understand it at first glance.
+
+Google-Gemma_A farmer h_random:
+A farmer has 17 sheep, and all but 9 run away. How many are left? 
+
+This is a classic word problem that focuses on solving for the negative. The correct answer is: **9**. 
+
+
+GPT2_A farmer h_beam:
+A farmer has 17 sheep, and all but 9 run away. How many are left?
+
+A farmer has 17 sheep, and all but 9 run away. How many are left?
+
+A farmer has 17 sheep, and all but 9
+
+Meta-Llama_A farmer h_beam:
+A farmer has 17 sheep, and all but 9 run away. How many are left? A farmer has 17 sheep, and all but 9 run away. How many are left? A farmer has 17 sheep, and all
+
+SMOL_A farmer h_beam:
+A farmer has 17 sheep, and all but 9 run away. How many are left?
+A) 9
+B) 10
+C) 11
+D) 12
+E) 13
+
+Google-Gemma_A farmer h_beam:
+A farmer has 17 sheep, and all but 9 run away. How many are left?
+
+This is a classic trick question! The farmer has **9** sheep left. 
+
+
+GPT2_A farmer h_beam_random:
+A farmer has 17 sheep, and all but 9 run away. How many are left?
+
+The answer: We don't know.
+
+It turns out that many of the sheep have been left in the cold, and the sheep have been
+
+Meta-Llama_A farmer h_beam_random:
+A farmer has 17 sheep, and all but 9 run away. How many are left? A farmer has 17 sheep, and all but 9 run away. How many are left? A farmer has 17 sheep, and all
+
+SMOL_A farmer h_beam_random:
+A farmer has 17 sheep, and all but 9 run away. How many are left?
+A) 9
+B) 10
+C) 11
+D) 12
+E) 13
+
+Google-Gemma_A farmer h_beam_random:
+A farmer has 17 sheep, and all but 9 run away. How many are left?
+
+This is a classic trick question! The farmer has **9** sheep left. 
+
+
+GPT2_The future_greedy:
+The future of artificial intelligence is uncertain.
+
+"We're not sure what the future will look like," said Dr. Michael S. Schoenfeld, a professor of computer science at the University of California, Berkeley. "But we're not
+
+Meta-Llama_The future_greedy:
+The future of artificial intelligence is here. It’s not just a buzzword anymore. It’s a reality that’s changing the way we live, work, and play. From self-driving cars to virtual assistants, AI is revolutionizing every aspect of
+
+SMOL_The future_greedy:
+The future of artificial intelligence is bright, with numerous exciting developments on the horizon. Here are some of the most promising advancements:
+
+Advances in Explainable AI (XAI) will become increasingly important, enabling developers to create AI systems that provide
+
+Google-Gemma_The future_greedy:
+The future of artificial intelligence is bright, but it's also fraught with challenges. As AI continues to evolve, it's crucial to address these challenges proactively to ensure its responsible and beneficial development. 
+
+Here are some key challenges and potential
+
+GPT2_The future_random:
+The future of artificial intelligence is uncertain.
+
+The goal is for AI to "improve" the ability of people to be better at solving general problem solvers. And that includes the decision making and decision analysis that comes after a person becomes good at
+
+Meta-Llama_The future_random:
+The future of artificial intelligence is in the hands of women
+Artificial intelligence is a hot topic, and it’s not just because of its potential to revolutionize the way we live and work. It’s also because of the people who are shaping
+
+SMOL_The future_random:
+The future of artificial intelligence is not only about making machines capable of simulating human-like intelligence, but also about empowering humans to live more fulfilling, purposeful, and healthy lives. By harnessing the power of AI to improve mental health, we can unlock a
+
+Google-Gemma_The future_random:
+The future of artificial intelligence is here and being used globally in ways that were once unimaginable.  It is changing how we learn, work, and interact with the world, but many questions remain.  One of the biggest is **how can we
+
+GPT2_The future_beam:
+The future of artificial intelligence is in the hands of the next generation of researchers.
+
+"We're going to see a lot of advances in artificial intelligence in the next few years, and we're going to see a lot of advances in artificial intelligence
+
+Meta-Llama_The future_beam:
+The future of artificial intelligence is here, and it’s already changing the way we live, work, and play. From self-driving cars to virtual assistants, AI is revolutionizing every aspect of our lives. But what does the future of AI look
+
+SMOL_The future_beam:
+The future of artificial intelligence is bright, and I'm excited to be a part of it. I believe that AI has the potential to revolutionize industries, improve lives, and solve some of the world's most pressing problems. As we continue to push the
+
+Google-Gemma_The future_beam:
+The future of artificial intelligence is bright, but it's not without its challenges. 
+
+Here's a breakdown of some of the most pressing issues:
+
+**Ethical Concerns:**
+
+* **Bias and Discrimination:** AI systems are trained on
+
+GPT2_The future_beam_random:
+The future of artificial intelligence is uncertain, but there is hope.
+
+"There is a lot of work to be done, but I think we are on the right track," he said. "I think we are on the right path."
+
+
+Meta-Llama_The future_beam_random:
+The future of artificial intelligence is in the hands of women
+The future of artificial intelligence is in the hands of women
+The future of artificial intelligence is in the hands of women
+The future of artificial intelligence is in the hands of women
+The
+
+SMOL_The future_beam_random:
+The future of artificial intelligence is exciting and full of possibilities. As we continue to develop and integrate AI into various aspects of our lives, we can expect to see significant advancements in areas such as healthcare, education, transportation, and more. However, it
+
+Google-Gemma_The future_beam_random:
+The future of artificial intelligence is full of promise and potential, but it also comes with significant challenges. 
+
+**Here's a breakdown of some key aspects:**
+
+**The Promise:**
+
+* **Automation and Efficiency:** AI can automate repetitive
+
